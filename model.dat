@@ -1,0 +1,71 @@
+#StartYear
+1990
+
+#EndYear
+1993
+
+#nyrs
+4
+
+#Areas
+3
+
+#numTagGp
+2
+
+#Releases_area (TagGroup, Area release)
+5000 0 0
+0 5000 0
+
+
+#Releases_yr (TagGroup, Year release)
+1990
+1991
+
+#Recaptures (TagGroup, Year recapture, Area recapture)
+180 20 15
+100 35 20
+85 30 30
+60 35  30
+0  0   0
+25 160 18
+34 120 20
+34 80 29
+
+#Recapture index
+1 1 1
+1 1 1
+1 1 1
+1 1 1
+0 0 0
+1 1 1
+1 1 1
+1 1 1
+
+#Reporting
+0.9 0.9 0.9
+0.9 0.9 0.9
+0.9 0.9 0.9
+0.9 0.9 0.9
+
+#Shedding
+0.01
+
+#M
+0.1
+
+
+#Effort
+ 10 9 8
+ 10 9 8
+ 10 9 8
+ 10 9 8
+
+#number of movement parameters
+6
+
+# Likelihood type  (1: Normal, 2: Poisson, 3: Negative Binomial)
+3
+
+# Poisson likelihood additive constant
+.0001
